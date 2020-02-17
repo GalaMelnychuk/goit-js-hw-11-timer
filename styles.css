@@ -1,0 +1,19 @@
+.timer {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 100px;
+    
+}
+
+.value {
+    font-weight: 900;
+    font-size: 70px;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
